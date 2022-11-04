@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/UgaRa1D5eECTLZ28LLMXPo4bNwB+nxlnEaZCO3PZIrop0jO6RPOViog7QYchl0XbWo1ligqtzBLMmdt7qtRQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LHUser\\Desktop\\LapTrinhWebNangCao\\blogAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 6.0.9)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Design (>= 6.0.9)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.9)' for 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 6.2.3)' for 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
